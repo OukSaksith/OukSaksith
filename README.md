@@ -85,8 +85,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&count_private=false"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OukSaksith&theme=dracula&hide_border=false"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+
 <h2 align="left">🏆 GitHub Trophies :</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=OukSaksith&theme=onedark"/>
 
+<h2 align="left">✨ Ramdom Quote :</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/OukSaksith/github-readme-quotes"/>
 
 ###
