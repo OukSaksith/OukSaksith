@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>📫 How to reach me<br>📄 Know about my experiences<br>👨‍💻 All of my projects are available at<br>📝 I regularly write articles on<br>🌱 I’m currently learning DevOps Engineering, Microservice<br>⚡ Fun fact : Bugs: sometimes they're not flaws, they're features waiting to shine!</p>
+<p align="left">🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>📫 How to reach me<br>📄 Know about my experiences<br>👨‍💻 All of my projects are available at<br>📝 I regularly write articles on<br>🌱 I’m currently learning DevOps Engineering, Microservice<br>⚡ Fun fact : <b> Bugs: sometimes they're not flaws, they're features waiting to shine!</b></p>
 
 ###
 
