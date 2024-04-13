@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Saksith, coding Adventures with me : </h2>
+<h2 align="left">Hi 👋 I'm Saksith, coding adventures with me : </h2>
 
 ###
 
