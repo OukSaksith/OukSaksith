@@ -82,11 +82,10 @@
 ###
 
 <h2 align="left">📊 GitHub Stats :</h2>
-![OukSaksith's Stats](https://github-readme-stats.vercel.app/api?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&count_private=false)
-![OukSaksith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OukSaksith&theme=dracula&hide_border=false)
-![OukSaksith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+
 
 <h2 align="left">🏆 GitHub Trophys :</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=OukSaksith)](https://github.com/OukSaksith/github-profile-trophy)
+
 
 ###
