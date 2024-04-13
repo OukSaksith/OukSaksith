@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/OukSaksith/OukSaksith/q.svg" style="max-width: 100%;"/>
+  <img src="[https://github.com/OukSaksith/OukSaksith/q.svg](https://raw.githubusercontent.com/OukSaksith/OukSaksith/fe44f144d5718bb6699a4807d6a932f3aa2f623d/q.svg)" style="max-width: 100%;"/>
 </div>
 
 ###
