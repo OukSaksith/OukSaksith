@@ -82,9 +82,9 @@
 ###
 
 <h2 align="left">📊 GitHub Stats :</h2>
-
-
-
+https://github-readme-stats.vercel.app/api?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&count_private=false
+https://github-readme-streak-stats.herokuapp.com/?user=OukSaksith&theme=dracula&hide_border=false
+https://github-readme-stats.vercel.app/api/top-langs/?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&layout=compact
 <h2 align="left">🏆 GitHub Trophies :</h2>
 
 
