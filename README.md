@@ -15,9 +15,11 @@
 </div>
 
 ###
+<p align="center">VISITOR COUNT :</p>
 
+###
 <div align="center">
-  <img height="50" src="https://profile-counter.glitch.me/OukSaksith/count.svg"  />
+  <img height="40" src="https://profile-counter.glitch.me/OukSaksith/count.svg"  />
 </div>
 
 ###
