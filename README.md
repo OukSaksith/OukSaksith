@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on<br>🌱 I’m currently learning<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>📫 How to reach me<br>📄 Know about my experiences<br>👨‍💻 All of my projects are available at<br>📝 I regularly write articles on<br>⚡ Fun fact : Bugs: sometimes they're not flaws, they're features waiting to shine!</p>
+<h6 align="left">A passionate Full Stack Developer from Cambodia, committed to delivering top-tier digital solutions with professionalism.</h6>
+
+###
+
+<p align="left">🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>💬 Ask me about<br>📫 How to reach me<br>📄 Know about my experiences<br>👨‍💻 All of my projects are available at<br>📝 I regularly write articles on<br>🌱 I’m currently learning DevOps Engineering, Microservice<br>⚡ Fun fact : Bugs: sometimes they're not flaws, they're features waiting to shine!</p>
 
 ###
 
@@ -78,9 +82,11 @@
 ###
 
 <h2 align="left">📊 GitHub Stats :</h2>
+![OukSaksith's Stats](https://github-readme-stats.vercel.app/api?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+![OukSaksith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=OukSaksith&theme=dracula&hide_border=false)
+![OukSaksith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OukSaksith&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/60955155?s=400&u=597f14c0ab94650a21ae4c38298e6b36450f9685&v=4"  />
+<h2 align="left">🏆 GitHub Trophys :</h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=OukSaksith)](https://github.com/OukSaksith/github-profile-trophy)
 
 ###
