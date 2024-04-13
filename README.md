@@ -11,23 +11,18 @@
 ###
 
 <div align="left">
+  <img src="https://github.com/OukSaksith/OukSaksith/q.svg" style="max-width: 100%;"/>
 </div>
 
 ###
 
-<h2 align="left">💫 Networks :</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+<div align="center">
+  <img height="50" src="https://profile-counter.glitch.me/OukSaksith/count.svg"  />
 </div>
 
 ###
 
-<h2 align="left">💻 Tech Stack :</h2>
+<h2 align="left">💻 Technology Stacks :</h2>
 
 ###
 
@@ -77,6 +72,12 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
 </div>
 
 ###
@@ -91,5 +92,16 @@
 
 <h2 align="left">✨ Ramdom Quote :</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/OukSaksith/github-readme-quotes"/>
+
+###
+<h2 align="left">💫 Networks :</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+</div>
 
 ###
