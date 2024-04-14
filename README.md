@@ -92,7 +92,7 @@
 <h2 align="left">🏆 GitHub Trophies :</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=OukSaksith&theme=onedark"/>
 
-<h2 align="left">✨ Ramdom Quote :</h2>
+<h2 align="left">✨ Random Quote :</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/OukSaksith/github-readme-quotes"/>
 
 ###
