@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="[https://cdn.simpleicons.org/dotnet]" height="40" alt="dotnet logo"  />
+  <img src="https://simpleicons.org/icons/dotnet.svg" height="40" alt="dotnet logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
